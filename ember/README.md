@@ -87,7 +87,7 @@ export default DS.Adapter.extend({
 
 * [2.1](#2.1) Prefer `let` over `var` and use `const` semantically to indicate
   immutability. Please, remember that `const` variables are mutable in
-  JavaScript variables are mutable in JavaScript.
+  JavaScript.
 * [2.2](#2.2) Use one `let` statement for one line declarations and for null
   variables and use separate `let` assignments for multi line declarations and
   destructuring assignments.
